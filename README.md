@@ -1,7 +1,6 @@
 # First-Principles-Simulation-of-2D-Quantum-Systems
 
-OverviewThis 
-project presents a first-principles investigation into the electronic properties and behavior of two-dimensional (2D) quantum systems, specifically focusing on the Hydrogen atom, the Helium atom, and the Quantum Harmonic Oscillator.
+This project presents a first-principles investigation into the electronic properties and behavior of two-dimensional (2D) quantum systems, specifically focusing on the Hydrogen atom, the Helium atom, and the Quantum Harmonic Oscillator.
 The exploration of matter in reduced dimensions is critical for understanding modern 2D materials (such as graphene and transition metal dichalcogenides) and excitons in semiconductors. Confinement to a plane fundamentally alters electron behavior, modifying the nature of quantum states and enhancing electron-electron interactions. For example, while the Coulomb interaction scales as $1/r$ in three dimensions, the effective potential in two dimensions typically behaves as $ln(r)$ or $1/r$, resulting in stronger binding energies and shifted scaling laws. This project models these foundational shifts, providing reliable conceptual benchmarks for theoretical frameworks.
 
 # Methodology & Key Features
